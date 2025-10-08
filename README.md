@@ -1,10 +1,16 @@
 # ⬇️ Resources Download
 
-[<mark style="color:blue;">**Product Landing Page**</mark>](https://campaign.advantech.online/en/DeviceOn/index.html) :link:
+{% hint style="danger" %}
+### <mark style="color:red;">**Important Site Migration: Find Our Technical Manuals Here**</mark>
 
-[<mark style="color:blue;">**Ticket System**</mark>](https://wesstorage.blob.core.windows.net/cloudservice/index.html) :link:
+#### Our technical manual has moved!
 
-<mark style="color:blue;">**Contact Us:**</mark> [<mark style="color:blue;">DeviceOn.Support@advantech.com</mark>](mailto:DeviceOn.Support@advantech.com)
+Please be aware that this website will no longer be updated. All our technical documentation has been officially migrated to our new platform: \[[https://docs.deviceon.advantech.com/](https://docs.deviceon.advantech.com/)].
+
+Please update your bookmarks and direct all future inquiries and visits to the new site.
+
+Thank you for your understanding!
+{% endhint %}
 
 {% tabs %}
 {% tab title="DeviceOn Server" %}
