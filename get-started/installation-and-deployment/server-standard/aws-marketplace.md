@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # AWS Marketplace
 
 ## Step 1: Deploy DeviceOn from AWS Marketplace
